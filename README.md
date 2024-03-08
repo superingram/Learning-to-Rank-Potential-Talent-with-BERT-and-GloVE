@@ -1,0 +1,1 @@
+Optimized talent acquisition processes by integrating a RankNet TensorFlow neural network (NLP) utilizing TF-IDF, BERT, GloVE, and Word2vec into a machine learning pipeline. The algorithm lists and ranks job candidates based on search terms and has the ability to refine future results based on feedback.
